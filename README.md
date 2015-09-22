@@ -1,2 +1,1 @@
-Open Data Is Cool (said no one)
-=================
+Open Data Is Cool
